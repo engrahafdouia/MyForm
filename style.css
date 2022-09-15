@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url('../hw-with-background/images/pexels-johannes-plenio-1103970.jpg');
+    background-image: url('pexels-johannes-plenio-1103970.jpg');
     background-size: cover;
 }
 .container{
@@ -88,7 +88,7 @@ background: url(images/red_background.jpg);
 line-height: 1.8;
 margin-top: 15px; */
 font-size: 30px;
-background: url(../hw-with-background/images/label.jpg);
+background: url('label.jpg');
 color: white;
 padding: 20px;
 display: block;
